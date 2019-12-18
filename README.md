@@ -21,3 +21,8 @@ Install Code Formater
 
 Create the Django ProjectApp
 >/> django-admin startproject app
+
+
+
+Use ApolloGraphQL for the React Client
+>/> https://github.com/reedbarger/react-tracks-client
