@@ -9,3 +9,5 @@ out
 gen
 /Pipfile.lock
 /yarn.lock
+/node_modules/
+/react-tracks-client/node_modules
